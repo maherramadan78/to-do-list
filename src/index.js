@@ -1,15 +1,15 @@
 import './style.css';
-import { addNewTask } from './modules/addItem.js';
-import modifyTask from './modules/editTask.js';
-import { removeTask } from './modules/deleteTask.js';
-import removeCompleted from './modules/clearCompleted.js';
-import completeTask from './modules/markTask.js';
-import { displayListTasks } from './modules/listCard.js';
+import { addNewTask } from '../modules/addItem.js';
+import modifyTask from '../modules/editTask.js';
+import { removeTask } from '../modules/deleteTask.js';
+import removeCompleted from '../modules/clearCompleted.js';
+import completeTask from '../modules/markTask.js';
+import { displayListTasks } from '../modules/listCard.js';
 
 import {
   updateLocalStorage,
   getLocalStorage as tasksList,
-} from './modules/data.js';
+} from '../modules/data.js';
 
 // Declare variables
 const input = document.querySelector('.inputField');
