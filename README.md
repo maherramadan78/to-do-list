@@ -153,7 +153,7 @@ npm test
 
 > Mention all of the collaborators of this project.
 
-👤 **Shoaib Qureshi**
+👤 **Maher ramadan**
 
 - GitHub: [@githubhandle](https://github.com/maherramadan78)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/maher-ramadan-655623a4/)
